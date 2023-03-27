@@ -1,4 +1,4 @@
-# Hello there, welcome to space 👋🏾
+# Hello there, welcome to my space 👋🏾
 
 [![Linkedin Badge](https://img.shields.io/badge/-osinachi_ibiam_uro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osinachi-ibiam-uro)](https://www.linkedin.com/in/osinachi-ibiam-uro-9046144b/) [![Twitter Badge](https://img.shields.io/badge/-@osinachi_ibiam-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/osinachi_uro)](https://twitter.com/osinachi_ibiam)
 
