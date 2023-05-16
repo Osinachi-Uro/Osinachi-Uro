@@ -9,7 +9,7 @@ I'm an AWS Certified Solutions Architect, who currently works as a Junior Cloud 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm more productive when I work in a team.
 - 🌱 I’m currently learning Kubernetes, Prometheus & Grafana.
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, Cloud/DevOps Engineer opportunities.
 - 💼 Job interests: SysAdmin, Cloud DevOps Engineer or Cloud Solutions Architect (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1ZZ_cNxMRQg1xOvz1qiQkz-k2bZofQFCR/view?usp=share_link) and contact me by emailing osinachi.ibiam@gmail.com.
 
