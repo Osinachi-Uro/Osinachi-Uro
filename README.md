@@ -10,7 +10,7 @@ I'm an AWS Certified Solutions Architect, who currently works as a Cloud DevOps 
 - 💡 Fun fact: I'm more productive when I work in a team.
 - 🌱 I’m currently learning Kubernetes, Prometheus & Grafana.
 - 😊 I’m looking for help with open source projects, Cloud/DevOps Engineer opportunities.
-- 💼 Job interests: SysAdmin, Cloud DevOps Engineer or Cloud Solutions Architect (Intern or Junior level).
+- 💼 Job interests: SysAdmin, Cloud DevOps Engineer or Cloud Solutions Architect.
 - 📫 You can [view my portfolio](https://www.osinachiuro.com) and contact me by sending an email to osinachi.ibiam@gmail.com
 
 ---
