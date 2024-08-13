@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-osinachi_ibiam_uro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osinachi-ibiam-uro)](https://www.linkedin.com/in/osinachi-ibiam-uro-9046144b/) [![Twitter Badge](https://img.shields.io/badge/-@osinachi_ibiam-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/osinachi_uro)](https://twitter.com/osinachi_ibiam)
 
-I'm an AWS Certified Solutions Architect, who currently works as a Cloud DevOps Engineer at [Keepamhere Cloud Storage Service](https://www.keepamhere.com). I'm passionate about Cloud DevOps, Open Source Contributions, Continous Improvement, Documentation, Cloud support and others.
+I'm an AWS Certified Solutions Architect, who currently works as a Cloud DevOps Engineer at [Nethermind](https://www.nethermind.io). I'm passionate about Cloud DevOps, Open Source Contributions, Continous Improvement, Documentation, Cloud support and others.
 
 **Here's a quick summary about me**:
 
