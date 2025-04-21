@@ -14,8 +14,8 @@ I'm an AWS Certified Solutions Architect, who currently works as a DevOps Engine
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm more productive when I work in a team.
 - 🌱 I’m currently learning Kubernetes, Prometheus & Grafana.
-- 😊 I’m looking for help with open source projects, Cloud/DevOps Engineer opportunities.
-- 💼 Job interests: SysAdmin, Cloud DevOps Engineer or Cloud Solutions Architect.
+- 😊 I’m looking for contributor(s) to my [opensource project](https://github.com/Osinachi-Uro/the-product-whisperer).
+- 💼 Job interests: DevOps Engineer, Cloud Solutions Architect.
 - 📫 You can [view my portfolio](https://www.osinachiuro.com) and contact me by sending an email to osinachi.ibiam@gmail.com
 
 ---
